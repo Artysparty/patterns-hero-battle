@@ -1,0 +1,15 @@
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/bin/Debug/net7.0/BattlePatterns
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/bin/Debug/net7.0/BattlePatterns.deps.json
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/bin/Debug/net7.0/BattlePatterns.runtimeconfig.json
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/bin/Debug/net7.0/BattlePatterns.dll
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/bin/Debug/net7.0/BattlePatterns.pdb
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/obj/Debug/net7.0/BattlePatterns.csproj.AssemblyReference.cache
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/obj/Debug/net7.0/BattlePatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/obj/Debug/net7.0/BattlePatterns.AssemblyInfoInputs.cache
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/obj/Debug/net7.0/BattlePatterns.AssemblyInfo.cs
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/obj/Debug/net7.0/BattlePatterns.csproj.CoreCompileInputs.cache
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/obj/Debug/net7.0/BattlePatterns.dll
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/obj/Debug/net7.0/refint/BattlePatterns.dll
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/obj/Debug/net7.0/BattlePatterns.pdb
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/obj/Debug/net7.0/BattlePatterns.genruntimeconfig.cache
+/Users/artemkozlov/Projects/BattlePatterns/BattlePatterns/obj/Debug/net7.0/ref/BattlePatterns.dll
